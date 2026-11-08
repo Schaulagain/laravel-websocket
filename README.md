@@ -1,6 +1,6 @@
 # Laravel WebSockets Chat
 
-A chat app I made to learn Laravel broadcasting. Instead of paying for Pusher, it runs its own WebSocket server. When someone sends a message, Laravel broadcasts it as an event and every open browser gets it straight away.
+A chat app I made to learn Laravel broadcasting. It runs its own WebSocket server. When someone sends a message, Laravel broadcasts it as an event and every open browser gets it straight away.
 
 ## How it works
 
