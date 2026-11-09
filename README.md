@@ -35,3 +35,7 @@ php artisan serve              # app on http://127.0.0.1:8000
 ```
 
 Open the app in two browser windows and send a message from one. It shows up in both.
+
+## How this was built
+
+I wrote the original version myself in 2024. In 2026, AI coding agents (mainly **Claude**, in Claude Code) cleaned it up and wrote this README, and I reviewed their changes.
